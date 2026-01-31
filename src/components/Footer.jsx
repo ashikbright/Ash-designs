@@ -34,7 +34,7 @@ const Footer = () => {
                     <div className="footer-section">
                         <h4>Contact</h4>
                         <ul className="footer-links">
-                            <li><a href="mailto:ashdesigns@zohoamil.in">ashdesigns@zohoamil.in</a></li>
+                            <li><a href="mailto:ashdesigns@zohoamil.in">ashdesigns@zohomail.in</a></li>
                             <li><a href="tel:+919148097564">+91 91480 97564</a></li>
                             <li>Remote · India 🇮🇳</li>
                         </ul>
