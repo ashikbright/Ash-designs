@@ -162,7 +162,7 @@ const Contact = () => {
                                     <div className="contact-icon">📧</div>
                                     <div>
                                         <h4 style={{ marginBottom: '0.5rem', fontSize: 'var(--font-size-lg)', color: 'var(--text-primary)' }}>Email</h4>
-                                        <a href="mailto:ashdesigns@zohoamil.in" style={{ color: 'var(--text-secondary)', fontSize: 'var(--font-size-base)' }}>ashdesigns@zohoamil.in</a>
+                                        <a href="mailto:ashdesigns@zohomail.in" style={{ color: 'var(--text-secondary)', fontSize: 'var(--font-size-base)' }}>ashdesigns@zohoamil.in</a>
                                     </div>
                                 </div>
                                 
